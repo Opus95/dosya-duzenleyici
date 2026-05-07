@@ -4,16 +4,7 @@ Bir klasördeki dosyaları otomatik olarak türlerine göre alt klasörlere taş
 
 ---
 
-## 📋 İçindekiler
 
-- [Özellikler](#-özellikler)
-- [Desteklenen Dosya Türleri](#-desteklenen-dosya-türleri)
-- [Kurulum](#-kurulum)
-- [Kullanım](#-kullanım)
-- [Örnek](#-örnek)
-
-
----
 
 ## ✨ Özellikler
 
